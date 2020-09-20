@@ -30,3 +30,5 @@ Create maintenance plan
 ![Screen3](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123531.png)
 
 # Conclusion
+
+The maintenance of databases is an important thing to do because it helps to improve your database. There are routines meant to help performance, free up disk space, check for data errors, check for hardware faults, update internal statistics, and many other important things.
