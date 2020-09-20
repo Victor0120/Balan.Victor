@@ -25,8 +25,8 @@ Create maintenance plan
 
 ![Screen1](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123437.png)
 
-(https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123501.png)
+![Screen2](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123501.png)
 
-(https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123531.png)
+![Screen3](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123531.png)
 
 # Conclusion
