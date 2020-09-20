@@ -23,6 +23,6 @@ Create maintenance plan
 
 # Implementation
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshot%202020-09-20%20122900.png)
 
 # Conclusion
