@@ -23,6 +23,10 @@ Create maintenance plan
 
 # Implementation
 
-![Image of Yaktocat](https://github.com/Victor0120/Balan.Victor/blob/master/Screenshot%202020-09-20%20122900.png)
+(https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123437.png)
+
+(https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123501.png)
+
+(https://github.com/Victor0120/Balan.Victor/blob/master/Screenshots/Screenshot%202020-09-20%20123531.png)
 
 # Conclusion
